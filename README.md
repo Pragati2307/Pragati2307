@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pragati2307
-- 👀 I’m interested in Software Progamming
-- 🌱 I’m currently learning DSA and Web Development
-- 💞️ I’m looking to collaborate on Web projects
+- 📊 I’m interested in Data Analytics and Business Intelligence
+- 🌱 I’m currently learning Python for Data Analysis, SQL, and Tableau
+- 💡 I’m looking to collaborate on analytics projects and data visualization tasks
 - 📫 How to reach me pragatiagarwal2304@gmail.com
 
 <!---
